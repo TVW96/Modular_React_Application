@@ -1,6 +1,7 @@
 
 .hero {
     background-image: url('../images/akita_desert_rabbit(AiGemini).jpeg');
+    background-position: center -100px;
     background-size: cover;
     padding: 4rem 2rem;
     display: grid;

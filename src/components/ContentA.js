@@ -8,7 +8,7 @@ const ContentA = () => {
     }
     return (
         <div className="hero">
-            <h1>Hero Section</h1>
+            <h1>The Akita Hero Section</h1>
             <article>
                 <p>
                     The Akita is renowned for its noble and loyal nature, making it one of the most revered dog breeds. Known for their deep bond with their families, Akitas are fiercely protective and will go to great lengths to ensure the safety and well-being of their loved ones. Their loyalty is unwavering, often forming a strong, lifelong attachment to their owners. The breed’s dignified demeanor and natural sense of independence make them appear regal, while their calm and reserved nature adds to their noble reputation. Akitas are also highly intuitive, capable of sensing emotions and responding with a protective, affectionate instinct. Their combination of strength, loyalty, and protectiveness has earned them a well-deserved place as a symbol of devotion and courage.
