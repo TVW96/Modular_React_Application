@@ -1,0 +1,55 @@
+/* akitas styles */
+.akitas {
+    padding: 2rem;
+  }
+  
+  .akitas > ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 1rem;
+  }
+  
+  .akitas > ul > li {
+    border: 1px solid #E2E2E2;
+    border-radius: .5rem;
+    background-color: gainsboro;
+    border: black solid 0.25px;
+    list-style: none;
+  }
+  
+  .akitas > ul > li > figure {
+    max-height: 220px;
+    overflow: hidden;
+    border-top-left-radius: .5rem;
+    border-top-right-radius: .5rem;
+    position: relative;
+  }
+  
+  .akitas > ul > li > figure > img {
+    width: 100%;
+  }
+  
+  .akitas > ul > li > figure > figcaption {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0,0,0,.7);
+    width: 100%;
+  }
+  
+  .akitas > ul > li > figure > figcaption > h3 {
+    color: white;
+    padding: .75rem;
+    font-size: 1.25rem;
+  }
+  
+  .akitas > ul > li > p {
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: 1rem .75rem;
+    color: #666666;
+  }
+  
+  .akitas > ul > li > a {
+    padding: .5rem 1rem;
+    margin: .5rem;
+  }
